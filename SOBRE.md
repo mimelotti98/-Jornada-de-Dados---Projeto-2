@@ -1,5 +1,6 @@
 # Jornada-de-Dados---Projeto-2
-<img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white" /> ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+
 
 📊Num cenário musical altamente competitivo e em constante transformação, compreender o que torna uma música bem-sucedida é essencial para o lançamento de novos artistas. Neste projeto, realizamos uma análise exploratória com dados do Spotify de 2023, buscando identificar os fatores que influenciam o sucesso das faixas em termos de número de streams.
 A gravadora levantou diversas hipóteses sobre o desempenho das músicas, como a relação entre BPM e popularidade, o impacto da presença em playlists, a influência de características sonoras e o papel da popularidade dos artistas. Essas hipóteses foram validadas por meio da análise de dados, permitindo extrair insights valiosos sobre o que contribui para o sucesso no ambiente digital.
